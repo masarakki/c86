@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/masarakki/review.git
+  remote: https://github.com/masarakki/review.git
   revision: 67e521cd75a3b60afb63edba01d9952b92adc0b2
   branch: c86
   specs:
@@ -16,7 +16,7 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
-    redcarpet (3.1.2)
+    redcarpet (3.6.0)
     slop (3.6.0)
 
 PLATFORMS
